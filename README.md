@@ -1,5 +1,5 @@
 # Databases Final Project
-A database implemented in SQL that stores a list of brands and clothing items sold in a department store.
+For this project I have created a database which holds several brands and types of clothing sold in a department store in SQL and PHP.
 
 # Name
 --- Aliya Ware ---
