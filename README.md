@@ -9,9 +9,9 @@ For this project I have created a database which holds several brands and types 
 
 # Connection Information
 --- port#: 3185
---- host: ix-dev.cs.uoregon.edu
---- username/pass: guest/guest
---- Database name: 
+/n--- host: ix-dev.cs.uoregon.edu
+/n--- username/pass: guest/guest
+/n--- Database name: 
 
 # Project link
 --- *insert link* --- 
