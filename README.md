@@ -14,4 +14,4 @@ For this project I have created a database which holds several brands and types 
 --- Database name:    
 
 # Project link
---- *insert link* --- 
+https://ix.cs.uoregon.edu/~aliyaw/finalProject/frontPage.html
